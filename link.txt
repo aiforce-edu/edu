@@ -1,0 +1,8 @@
+1. 아두이노 홈페이지 : https://wwww.arduino.cc
+2. WeMos 보드 셋팅 : http://arduino.esp8266.com/stable/package_esp8266com_index.json
+3. 공공데이터 사이트 : https://www.data.go.kr
+4. 측정소 정보 : https://www.airkorea.or.kr/web/stationInfo?pMENU_NO=93
+5. 구글 파이어베이스 : https://firebase.google.com
+6. 앱인벤터 : https://appinventor.mit.edu/
+
+
