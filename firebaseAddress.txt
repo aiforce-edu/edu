@@ -1,0 +1,2 @@
+#define FIREBASE_HOST "aiforce-skku-iot-default-rtdb.firebaseio.com" 
+#define FIREBASE_AUTH "Qn1K7Yicum78BpqwaVwX2iPRmjKtDaw3ucmDigdM"
