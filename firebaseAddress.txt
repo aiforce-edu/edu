@@ -1,2 +1,2 @@
-#define FIREBASE_HOST "aiforce-edu-default-rtdb.firebaseio.com" 
-#define FIREBASE_AUTH "85037cbukGh4F5obmCw6TqPjWcDXoeCkNqlhEmIi"
+#define FIREBASE_HOST "iot-skku-230711-default-rtdb.firebaseio.com" 
+#define FIREBASE_AUTH "SA2niUC6U4WWPd6caxhA6pfDQ3neDneuVMVEhoN3"
