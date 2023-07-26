@@ -13,7 +13,6 @@
 FirebaseData firebaseData;
 FirebaseJson json;
  
-void printResult(FirebaseData &data);
 void setup() // wifi 접속 과정.
 {
   Serial.begin(9600);
