@@ -1,2 +1,2 @@
-#define FIREBASE_HOST "iot-skku-230711-default-rtdb.firebaseio.com" 
-#define FIREBASE_AUTH "SA2niUC6U4WWPd6caxhA6pfDQ3neDneuVMVEhoN3"
+#define FIREBASE_HOST "skku-iotcodingcamp-default-rtdb.firebaseio.com" 
+#define FIREBASE_AUTH "y1Svf6gXlZvOoRmGuDSb0zrE0qnL5lvUhpMfBzyS"
