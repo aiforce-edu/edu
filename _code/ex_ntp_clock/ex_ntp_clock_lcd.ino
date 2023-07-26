@@ -4,7 +4,6 @@
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 
-
 LiquidCrystal_I2C lcd(0x27, 16, 2); 
 //Input I2C address after check address at the first parameter
 
@@ -47,6 +46,7 @@ void loop() {
   String strSec  = String(timeClient.getSeconds());
   lcd.setCursor(0,1);
   lcd.print("                ");
+  lcd.setCursor(0,1);
   lcd.print(Week[timeClient.getDay()]);
   lcd.print(" ");
   lcd.print(strHour); lcd.print(":");
