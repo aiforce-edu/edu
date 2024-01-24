@@ -1,8 +1,8 @@
 #include <Adafruit_NeoPixel.h>
 
 int RED 	 = 0;
-int GREEN  = 0;
-int BLUE   = 0;
+int GREEN  = 1;
+int BLUE   = 2;
 int RGBled = 2; 
 int num = 12;
 Adafruit_NeoPixel pixels(num, RGBled, NEO_GRB + NEO_KHZ800);
