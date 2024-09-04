@@ -1,2 +1,2 @@
-#define FIREBASE_HOST "skkuiot-0715-default-rtdb.firebaseio.com" 
-#define FIREBASE_AUTH "Tl83Fhg9HI8ocaUiJiZCXsSnkBPQIeuPUUwFeT2i"
+#define FIREBASE_HOST "sht-iot-240904-default-rtdb.firebaseio.com" 
+#define FIREBASE_AUTH "gGXXU2xTEPWI1rIU3dPmsKajiuVLIoZxriih9FSI"
